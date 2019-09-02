@@ -1,3 +1,3 @@
 #!/usr/bin/bash 
 
-echo "Hello noob"
+echo "There were 78 successes and 22 failures."
